@@ -1,17 +1,21 @@
-# Open Source Contributions
+## Open Source Contributions
 
 A curated list of my merged open-source pull requests, focusing on identity infrastructure and security.
 
-1. [Engineered OpenID for Verifiable Credential Issuance (OID4VCI) flow updates to support `credential_configuration_id` processing in `keycloak`](https://github.com/keycloak/keycloak/pull/46690)
+1. [Enhanced OID4VCI flows to support secure decentralized identity issuance in <kbd>Keycloak</kbd>](https://github.com/keycloak/keycloak/pull/46690)
 
-2. [Patched a TOCTOU race condition in OTP verification to prevent token reuse under concurrent requests in `better-auth`](https://github.com/better-auth/better-auth/pull/8067)
+2. [Patched an OTP race condition to prevent unauthorized token reuse in <kbd>Better Auth</kbd>](https://github.com/better-auth/better-auth/pull/8067)
 
-3. [Fixed exception handling in the AWS IAM module to prevent `TypeError` from masking `AccessDenied` telemetry in `cloud-custodian`](https://github.com/cloud-custodian/cloud-custodian/pull/10614)
+3. [Fixed AWS IAM exception handling to restore accurate AccessDenied compliance telemetry in <kbd>Cloud Custodian</kbd>](https://github.com/cloud-custodian/cloud-custodian/pull/10614)
 
-4. [Hardened identity federation by decoupling localized UI labels from backend persistence to enforce strict OIDC protocol compliance in `keycloak`](https://github.com/keycloak/keycloak/pull/46880)
+4. [Hardened OIDC compliance by decoupling UI state from backend persistence in <kbd>Keycloak</kbd>](https://github.com/keycloak/keycloak/pull/46880)
 
-5. [Fixed a multi-session identity transition failure by implementing strict server-side cryptographic cookie validation in `better-auth`](https://github.com/better-auth/better-auth/pull/8121)
+5. [Enforced strict cryptographic validations to prevent active session hijacking in <kbd>Better Auth</kbd>](https://github.com/better-auth/better-auth/pull/8121)
 
-6. [Did an IAM Security review and enforced fixes in `leapstacks2`](https://github.com/bfateen/leapstacks2)
+6. [Performed an AWS IAM security review and enforced structural access controls in <kbd>Leapstacks2</kbd>](https://github.com/bfateen/leapstacks2)
 
-7. [Restored identity persistence by properly decoding Set-Cookie values to prevent cryptographic cookie double-encoding during session refreshes in `better-auth`](https://github.com/better-auth/better-auth/pull/8133)
+7. [Fixed Set-Cookie decoding logic to restore persistent session integrity in <kbd>Better Auth</kbd>](https://github.com/better-auth/better-auth/pull/8133)
+
+8. [Fixed admin UI pagination to enable seamless auditing of enterprise client sessions in <kbd>Keycloak</kbd>](https://github.com/keycloak/keycloak/pull/46889)
+
+9. [Patched a critical OAuth2 decoding flaw to eliminate application lockouts, backported to the stable release in <kbd>Authentik</kbd>](https://github.com/goauthentik/authentik/pull/20781)
