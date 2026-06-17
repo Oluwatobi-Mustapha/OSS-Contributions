@@ -71,6 +71,6 @@
 ---
 
 ### Leapstacks2
-> 5 security review contribution · AWS IAM review · structural access controls
+> 5 security review contribution · Private AWS IAM review · structural access controls
 
 - AWS IAM security review and structural access-control hardening plus a misconfiguration deep dive ([repository](https://github.com/bfateen/leapstacks2))
