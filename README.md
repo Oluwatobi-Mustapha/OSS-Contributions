@@ -1,7 +1,7 @@
 ## Open Source Contributions
 
 <p align="center">
-  <strong>Contributed security fixes and hardening for identity, authentication, authorization, and cloud access controls.</strong><br />
+  <strong>Contributed security fixes and hardening for identity, authentication, authorization, and cloud security.</strong><br />
   
 <p align="center">
   <img src="https://img.shields.io/badge/MERGED%20PRS-23-238636?style=flat-square&labelColor=0D1117&logo=github&logoColor=E6EDF3" alt="19 merged pull requests" />
