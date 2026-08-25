@@ -61,6 +61,7 @@
 - Google Mail token-refresh handling fix preserving correct re-authentication and fallback behavior ([#165371](https://github.com/home-assistant/core/pull/165371))
 - Redact Z-Wave add-on options sensitive error details ([#167239](https://github.com/home-assistant/core/pull/167239#event-24308447552))
 - Remove Supervisor refresh tokens  ([#179219](https://github.com/home-assistant/core/pull/179219)
+- Abode: report change setting failures ([#179756](https://github.com/home-assistant/core/pull/179756)
 
 
 ---
