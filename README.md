@@ -22,6 +22,16 @@
 - Organization-scoped membership resolution fix ([#47083](https://github.com/keycloak/keycloak/pull/47083))
 - Allow organization IdPs for members linked to another broker ([#47634](https://github.com/keycloak/keycloak/pull/47634))
 
+---
+
+### Home Assistant Core
+> 5 merged PRs · OAuth error handling · safe re-authentication · token refresh recovery
+
+- Google Sheets OAuth recovery fix for safe re-authentication and retry behavior ([#165000](https://github.com/home-assistant/core/pull/165000))
+- Google Mail token-refresh handling fix preserving correct re-authentication and fallback behavior ([#165371](https://github.com/home-assistant/core/pull/165371))
+- Redact Z-Wave add-on options sensitive error details ([#167239](https://github.com/home-assistant/core/pull/167239#event-24308447552))
+- Remove Supervisor refresh tokens  ([#179219](https://github.com/home-assistant/core/pull/179219))
+- Abode: report change setting failures ([#179756](https://github.com/home-assistant/core/pull/179756))
 
 ---
 
@@ -50,19 +60,6 @@
 - AWS IAM exception-handling fix restoring accurate `AccessDenied` compliance telemetry ([#10614](https://github.com/cloud-custodian/cloud-custodian/pull/10614))
 - SecurityHub Lambda findings fix sanitizing unsupported `VpcConfig` fields for schema-valid imports ([#10625](https://github.com/cloud-custodian/cloud-custodian/pull/10625))
 - aws - policystatement - normalize condition key case in `has-statement` ([#10623](https://github.com/cloud-custodian/cloud-custodian/pull/10623))
-
-
----
-
-### Home Assistant Core
-> 5 merged PRs · OAuth error handling · safe re-authentication · token refresh recovery
-
-- Google Sheets OAuth recovery fix for safe re-authentication and retry behavior ([#165000](https://github.com/home-assistant/core/pull/165000))
-- Google Mail token-refresh handling fix preserving correct re-authentication and fallback behavior ([#165371](https://github.com/home-assistant/core/pull/165371))
-- Redact Z-Wave add-on options sensitive error details ([#167239](https://github.com/home-assistant/core/pull/167239#event-24308447552))
-- Remove Supervisor refresh tokens  ([#179219](https://github.com/home-assistant/core/pull/179219))
-- Abode: report change setting failures ([#179756](https://github.com/home-assistant/core/pull/179756))
-
 
 ---
 
