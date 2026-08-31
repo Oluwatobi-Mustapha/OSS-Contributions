@@ -23,6 +23,10 @@
 - Allow organization IdPs for members linked to another broker [#47634](https://github.com/keycloak/keycloak/pull/47634)
 
 ---
+### Terraform
+> 1 merged PR · AWS  · IaC · Identity · Regression · Token
+
+-  Provider issue - Fix web identity token configuration [#49744](https://github.com/hashicorp/terraform-provider-aws/pull/49744)
 
 ### Home Assistant Core
 > 5 merged PRs · OAuth error handling · safe re-authentication · token refresh recovery
