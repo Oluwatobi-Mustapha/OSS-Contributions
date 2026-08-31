@@ -1,12 +1,12 @@
 ## Open Source Contributions
 
 <p align="center">
-  <strong>Contributed security fixes and hardening for identity, authentication, authorization, and cloud security.</strong><br />
+  <strong> My security fixes and hardening for Infrastructure, identity, authentication, authorization, and cloud security.</strong><br />
   
 <p align="center">
-  <img src="https://img.shields.io/badge/MERGED%20PRS-26-238636?style=flat-square&labelColor=0D1117&logo=github&logoColor=E6EDF3" alt="19 merged pull requests" />
-  <img src="https://img.shields.io/badge/PROJECTS-6-30363D?style=flat-square&labelColor=0D1117&logo=opensourceinitiative&logoColor=E6EDF3" alt="6 open source projects" />
-  <img src="https://img.shields.io/badge/FOCUS-IDENTITY%20%26%20CLOUD%20SECURITY-1B3A57?style=flat-square&labelColor=0D1117&logo=dependabot&logoColor=E6EDF3" alt="Identity and cloud security focus" />
+  <img src="https://img.shields.io/badge/MERGED%20PRS-27-238636?style=flat-square&labelColor=0D1117&logo=github&logoColor=E6EDF3" alt="19 merged pull requests" />
+  <img src="https://img.shields.io/badge/PROJECTS-7-30363D?style=flat-square&labelColor=0D1117&logo=opensourceinitiative&logoColor=E6EDF3" alt="6 open source projects" />
+
 </p>
 
 ### Keycloak
