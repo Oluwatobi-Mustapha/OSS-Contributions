@@ -1,4 +1,4 @@
-## Open Source Contributions
+## OSS Contributions
 
 <p align="center">
   <strong> My security fixes and hardening for Infrastructure, identity, authentication, authorization, and cloud security.</strong><br />
